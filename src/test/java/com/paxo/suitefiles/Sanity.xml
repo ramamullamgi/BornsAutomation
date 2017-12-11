@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SanitySuite" verbose="1" >
+
+  <test name="SanityHeader" >
+    <classes>
+       <class name="com.AutomationDemo.Paxotech.testscripts.sanity.HeaderValidation" />
+    </classes>
+  </test>
+ 
+  <test name="SanityFooter">
+    <classes>
+      <class name="com.AutomationDemo.Paxotech.testscripts.sanity.FooterValidation"/>
+    </classes>
+  </test>
+  
+</suite>
+
+
