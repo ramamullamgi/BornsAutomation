@@ -9,6 +9,7 @@ public class ToysAndGamesElements extends BaseClass{
 	//Featured in Kids
 
 	//Ages	
+	//public static By link0To2years=By.xpath("//ul[@id='sidebar-section-Ages']//a[text()='0 - 2 Years']");
 	public static By link0To2years=By.xpath("//ul[@id='sidebar-section-Ages']//a[text()='0 - 2 Years']");
 	public static By link3To5years=By.xpath("//ul[@id='sidebar-section-Ages']//a[text()='3 - 5 Years']");
 	public static By link6To8years=By.xpath("//ul[@id='sidebar-section-Ages']//a[text()='6 - 8 Years']");
